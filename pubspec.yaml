@@ -1,0 +1,13 @@
+name: orbix
+
+description: Betting analytics app
+
+publish_to: 'none'  # Remove this line if you wish to publish to pub.dev
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+flutter:
+  uses-material-design: true
